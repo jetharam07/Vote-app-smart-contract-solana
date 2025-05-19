@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.devnet]
-solana_project = "Cv4aLWmQAVJCpnkGDWZ1SZ4JtnSHzkoY7ym4AZZt2iwh"
+solana_project = "CyYX9fHRsarN73mVQp8Ygj8s8M3rv69PRM1iLfPcx3eX"
 
 [registry]
 url = "https://api.apr.dev"
