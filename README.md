@@ -1,7 +1,10 @@
 # Solana Vote App Smart Contract
 
 This repository contains a simple voting smart contract built for the Solana blockchain using the Anchor framework. 
-The contract was initially developed and deployed on Solana Playground and later ported to a local Anchor environment in VS Code (`lib.rs`).
+The contract was initially developed, deployed and tested on Solana Playground and later ported to a local Anchor environment in VS Code (`lib.rs`).
+
+## YouTube Tutorial
+Watch it here: https://youtu.be/FWyjmP4SbJA?si=ehcn8uNAdqm4S20M
 
 ## Features
 - Register candidate
