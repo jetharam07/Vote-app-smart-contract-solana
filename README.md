@@ -4,7 +4,7 @@ This repository contains a simple voting smart contract built for the Solana blo
 The contract was initially developed, deployed and tested on Solana Playground and later ported to a local Anchor environment in VS Code (`lib.rs`).
 
 ## YouTube Tutorial
-Watch it here: https://youtu.be/FWyjmP4SbJA?si=ehcn8uNAdqm4S20M
+Watch it here: ▶️ https://youtu.be/FWyjmP4SbJA?si=ehcn8uNAdqm4S20M
 
 ## Features
 - Register candidate
@@ -26,4 +26,6 @@ Watch it here: https://youtu.be/FWyjmP4SbJA?si=ehcn8uNAdqm4S20M
 
 ## YouTube Tutorial
 I have created a detailed video walkthrough explaining the development and deployment process of this Vote app smart contract in solana playground.  
-Watch it here: https://youtu.be/FWyjmP4SbJA?si=ehcn8uNAdqm4S20M
+Watch it here: ▶️ https://youtu.be/FWyjmP4SbJA?si=ehcn8uNAdqm4S20M
+
+Solana devnet explorer: https://explorer.solana.com/address/Arp1b8XkZ2btv3NmvT5ANMxZ3dzo9dnGK2E28Fq2Mjuj?cluster=devnet
